@@ -1,3 +1,7 @@
+#Architecture/Flow for data validation
+# author Dnyaneshvar Khairnar
+    
+
 sql/
 │
 ├── ddl/
